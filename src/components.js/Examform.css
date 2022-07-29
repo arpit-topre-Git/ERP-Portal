@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.form {
+    background-color: rgb(145, 205, 205, 0.4);
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    padding: 12px;
+    align-items: center;
+    height: 100%;
+}
+h2{
+    padding: 4px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 18px;
+}
